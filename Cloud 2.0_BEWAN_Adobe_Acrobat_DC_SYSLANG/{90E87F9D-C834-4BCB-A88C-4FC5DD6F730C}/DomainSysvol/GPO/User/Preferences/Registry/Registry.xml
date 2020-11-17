@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrySettings clsid="{A3CCFC41-DFDB-43a5-8D26-0FE8B954DA51}"><Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="bUseMUI" status="bUseMUI" image="12" changed="2019-06-20 19:36:58" uid="{74BCEFB8-2815-4EC1-8911-A2AFB32C69A1}" userContext="1" bypassErrors="1"><Properties action="U" displayDecimal="0" default="0" hive="HKEY_CURRENT_USER" key="SOFTWARE\Adobe\Acrobat Reader\DC\Language\UseMUI" name="bUseMUI" type="REG_DWORD" value="00000001"/></Registry>
+</RegistrySettings>
